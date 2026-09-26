@@ -9,7 +9,7 @@
 | **Credits** | 3 ECTS — 36 hours (9 sessions × 4 h) |
 | **Language** | English |
 | **Period** | First semester |
-| **Instructors** | [Ramon Winterhalder](https://www.rpwinterhalder.com) (sessions 1–3), tbc (sessions 4–9) |
+| **Instructors** | [Ramon Winterhalder](https://www.rpwinterhalder.com) (sessions 1–3), TBC (sessions 4–9) |
 | **Official page** | [myAriel](https://myariel.unimi.it/user/index.php?id=14344) · [unimi.it course page](https://www.unimi.it/en/education/degree-programme-courses/2027/workshop-programming-lab) |
 
 ---
