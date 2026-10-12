@@ -9,7 +9,7 @@
 | **Credits** | 3 ECTS — 36 hours (9 sessions × 4 h) |
 | **Language** | English |
 | **Period** | First semester |
-| **Instructors** | [Ramon Winterhalder](https://www.rpwinterhalder.com) (sessions 1–3), TBC (sessions 4–9) |
+| **Instructors** | [Ramon Winterhalder](https://www.rpwinterhalder.com) (sessions 1, 2, 5), Fatme Hachem (sessions 3, 4, 6–9) |
 | **Official page** | [myAriel](https://myariel.unimi.it/user/index.php?id=14344) · [unimi.it course page](https://www.unimi.it/en/education/degree-programme-courses/2027/workshop-programming-lab) |
 
 ---
@@ -19,17 +19,18 @@
 **myAriel** is the official page for the whole lab: announcements and material for all nine
 sessions.
 
-**This repository** holds the complete material for **sessions 1–3**: slides, exercise
-notebooks and solutions. No login needed.
+**This repository** holds the complete material for Ramon's sessions (**1, 2 and 5**): slides,
+exercise notebooks and solutions. No login needed.
 
 > **No access to Ariel yet, because your enrolment has not gone through?**
-> Use this page for the first three sessions. Click **Watch → Custom → Releases** (top right)
+> Use this page for sessions 1 and 2, and Ariel as soon as you have access. Click **Watch → Custom → Releases** (top right)
 > if you want a notification whenever new material appears.
 
 | What | Where |
 |---|---|
 | Installing Python and VS Code | [`SETUP.md`](SETUP.md) |
 | Session 1: slides, exercise notebook, files | [`lab01/`](lab01/) |
+| Session 2: slides, exercise notebook | [`lab02/`](lab02/) |
 | Solutions | `labNN/solutions/` |
 
 ### Release policy
@@ -60,14 +61,17 @@ Every exercise has a level: 🟢 **core** (everyone), 🟡 **stretch**, 🔴 **c
 
 ## Schedule
 
-| # | Date | Topics |
-|---|---|---|
-| 01 | 28.09 | Setup, running Python three ways (prompt, script, notebook), the terminal, first programs, reading error messages |
-| 02 | 05.10 | Variables, values, types and operators; input from the user |
-| 03 | 12.10 | Conditions, logical operators, handling errors with `try` / `except` |
-| 04–09 | from 19.10 | Loops and lists, strings, tuples, sets, dictionaries, functions, files, libraries |
+| # | Date | Instructor | Topics |
+|---|---|---|---|
+| 01 | 28.09 | Ramon Winterhalder | Setup, running Python three ways (prompt, script, notebook), the terminal, first programs, reading error messages |
+| 02 | 12.10 | Ramon Winterhalder | Variables, types, expressions; input from the user; choosing test inputs |
+| 03 | | Fatme Hachem | Conditions, logical operators, handling errors with `try` / `except` |
+| 04 | | Fatme Hachem | Loops and lists |
+| 05 | | Ramon Winterhalder | Strings, tuples, sets |
+| 06–09 | | Fatme Hachem | Dictionaries, functions, files, libraries |
 
-Sessions 1–3 build one small program step by step: a rule-based study assistant.
+Sessions 1–2 build one small program step by step: a rule-based study assistant. Version 0.3 is
+yours: after session 3 you have the tools to finish it (see the end of the session 2 notebook).
 
 ---
 
@@ -95,8 +99,8 @@ Pass / fail (*superato / non superato*).
 - **Standard route:** a final practical test. Nothing needs to be handed in during the term.
 - **Project route**, for students who can already program: an individual project, presented
   in about 10 minutes, with questions on your code. Evidence of prior experience: a passed
-  programming exam, or a GitHub repository with code you wrote. Decide by **session 3
-  (12.10)**. Details to follow.
+  programming exam, or a GitHub repository with code you wrote. Decide by **session 3**.
+  Details to follow.
 
 ---
 
