@@ -31,6 +31,9 @@ exercise notebooks and solutions. No login needed.
 | Installing Python and VS Code | [`SETUP.md`](SETUP.md) |
 | Session 1: slides, exercise notebook, files | [`lab01/`](lab01/) |
 | Session 2: slides, exercise notebook | [`lab02/`](lab02/) |
+| Session 3: slides, exercise | [`lab03/`](lab03/) |
+| Session 4: slides, exercise | [`lab04/`](lab04/) |
+| Session 5: slides, exercise notebook | [`lab05/`](lab05/) |
 | Solutions | `labNN/solutions/` |
 
 ### Release policy
